@@ -110,6 +110,6 @@ This app was developed specifically **for Pixellebit Studios** and is not open s
 
 ## 📬 Contact
 
-* **Developer**: Adrian Sam Sabalo
+* **Developer**: Sam Adrian P. Sabalo
 * **Email**: [samadriansabalo99@gmail.com](mailto:samadriansabalo99@gmail.com)
 * **GitHub**: [AceBurgundy](https://github.com/AceBurgundy)
