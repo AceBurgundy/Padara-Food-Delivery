@@ -76,11 +76,7 @@
    ```bash
    flutter run
    ```
-
-## 📱 PWA & Mobile Support
-
-Padara is fully optimized for Android mobile devices, with plans for iOS and optional PWA compatibility.
-
+   
 ## 📂 Project Structure
 
 * `lib/` – Main Flutter source code
